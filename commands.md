@@ -9,6 +9,7 @@ A personal reference for frequently used CLI and Git commands.
 | `pwd`                | Print current working directory |
 | `ls`                   | List files and directories in the current folder |
 | `cd <folder-name>` | Change directory |
+| `cd ..`            | Move one directory up
 | `mkdir <folder-name>` | Create a new directory |
 | `rm <file-name>` | Delete a file |
 | `rm -r <folder-name>` | Delete a folder and its contents |
@@ -16,6 +17,9 @@ A personal reference for frequently used CLI and Git commands.
 | `mv <source> <destination>` | Move or rename a file/folder |
 | `touch <file-name>` | Create a new empty file |
 | `clear` | Clear the terminal screen |
+| `code .` | Open the current directory in VS Code |
+| `whoami` | Display the current logged-in user |
+
 
 ---
 
