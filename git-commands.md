@@ -88,7 +88,23 @@ git status
 
 ### View Commit History
 ```bash
-git log
+git log  # Full commit history
+```
+
+```bash
+git log --oneline  # Compact history with one commit per line
+```
+
+```bash
+git log --graph  # Shows a visual representation of branches and merges
+```
+
+```bash
+git log --stat  # Shows file changes in each commit
+```
+
+```bash
+git log --pretty=format:"%h - %an, %ar : %s"  # Custom formatted log
 ```
 
 ---
