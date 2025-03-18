@@ -49,6 +49,9 @@ git branch -d branch_name
 ```bash
 git add file_name
 ```
+```bash
+git add .  # Add all changes in the current directory
+```
 
 ### Commit Changes
 ```bash
