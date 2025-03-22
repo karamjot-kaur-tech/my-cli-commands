@@ -71,6 +71,9 @@ git commit -am "commit message"
 ```bash
 git push origin branch_name
 ```
+```bash
+git push -u origin branch_name  # Push and set upstream tracking
+```
 
 ### Pull Changes from Remote
 ```bash
