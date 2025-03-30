@@ -9,6 +9,28 @@ git init
 
 ---
 
+## 🌟 Staging and Committing
+
+### Add Files to Staging Area
+```bash
+git add file_name
+```
+```bash
+git add .  # Add all changes in the current directory
+```
+
+### Commit Changes
+```bash
+git commit -m "commit message"
+```
+
+### Add and Commit in One Step
+```bash
+git commit -am "commit message"
+```
+
+---
+
 ## 🌱 Branch Management
 
 ### Create a New Branch
@@ -39,28 +61,6 @@ git branch
 ### Delete a Branch
 ```bash
 git branch -d branch_name
-```
-
----
-
-## 🌟 Staging and Committing
-
-### Add Files to Staging Area
-```bash
-git add file_name
-```
-```bash
-git add .  # Add all changes in the current directory
-```
-
-### Commit Changes
-```bash
-git commit -m "commit message"
-```
-
-### Add and Commit in One Step
-```bash
-git commit -am "commit message"
 ```
 
 ---
