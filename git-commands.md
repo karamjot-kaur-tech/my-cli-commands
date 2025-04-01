@@ -67,6 +67,15 @@ git branch -d branch_name
 
 ## 🚀 Pushing and Pulling
 
+### Link Your Local Repo to Remote GitHub Repo
+```bash
+git remote add origin YOUR_GITHUB_REPO_URL
+```
+
+### Verify the Remote Repository
+```bash
+git remote -v
+
 ### Push to Remote Repository
 ```bash
 git push origin branch_name
