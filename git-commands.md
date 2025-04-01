@@ -75,6 +75,7 @@ git remote add origin YOUR_GITHUB_REPO_URL
 ### Verify the Remote Repository
 ```bash
 git remote -v
+```
 
 ### Push to Remote Repository
 ```bash
